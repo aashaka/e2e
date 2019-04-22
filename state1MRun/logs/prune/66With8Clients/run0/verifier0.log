@@ -1,0 +1,8 @@
+Serving on port 9000 as beneficiary 7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Connected to 0 verifiers
+(node:116272) UnhandledPromiseRejectionWarning: TypeError: this.config.verifiers is not iterable
+    at NetworkLearner.startLearning (/home/cc/sosp19/verifier/src/networkLearner.ts:70:47)
+    at Command.program.version.description.command.option.option.option.option.option.action [as _action] (/home/cc/sosp19/verifier/src/verifier.ts:59:17)
+(node:116272) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:116272) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Parent block set to ab6e11d94914ffc052c08f63403a3b04f6426e54d2d4b23d663f0d615a7b4e27, block number 0

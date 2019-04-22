@@ -1,0 +1,1440 @@
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_5.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_6.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_6.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_2.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_2.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_3.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_1.bin
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_3.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_6.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_2.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_1.bin
+./client.sh start 6 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_2.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_6.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_2.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_0.bin
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_6.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_1.bin
+./client.sh start 6 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_2.bin
+trace1M
+./client.sh start 7 cnodes trace1M
+trace1M
+./client.sh start 8 cnodes trace1M
+trace1M
+./client.sh start 9 cnodes trace1M
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+trace1M
+./client.sh start 10 cnodes trace1M
+trace1M
+./client.sh start 11 cnodes trace1M
+trace1M
+./client.sh start 12 cnodes trace1M
+~/sosp19/txTraces/trace1M_3.bin
+trace1M
+./client.sh start 13 cnodes trace1M
+trace1M
+./client.sh start 14 cnodes trace1M
+trace1M
+./client.sh start 15 cnodes trace1M
+~/sosp19/txTraces/trace1M_8.bin
+~/sosp19/txTraces/trace1M_10.bin
+~/sosp19/txTraces/trace1M_13.bin
+~/sosp19/txTraces/trace1M_15.bin
+~/sosp19/txTraces/trace1M_9.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_12.bin
+~/sosp19/txTraces/trace1M_14.bin
+~/sosp19/txTraces/trace1M_11.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_2.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_7.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_1.bin
+./client.sh start 8 cnodes trace1M
+~/sosp19/txTraces/trace1M_4.bin
+trace1M
+./client.sh start 9 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_0.bin
+./client.sh start 10 cnodes trace1M
+trace1M
+./client.sh start 11 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_5.bin
+./client.sh start 12 cnodes trace1M
+trace1M
+./client.sh start 13 cnodes trace1M
+trace1M
+./client.sh start 14 cnodes trace1M
+~/sosp19/txTraces/trace1M_6.bin
+trace1M
+./client.sh start 15 cnodes trace1M
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_11.bin
+~/sosp19/txTraces/trace1M_9.bin
+~/sosp19/txTraces/trace1M_8.bin
+~/sosp19/txTraces/trace1M_12.bin
+~/sosp19/txTraces/trace1M_10.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_13.bin
+~/sosp19/txTraces/trace1M_14.bin
+~/sosp19/txTraces/trace1M_15.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_3.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_3.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+trace1M
+./client.sh start 7 cnodes trace1M
+trace1M
+./client.sh start 8 cnodes trace1M
+trace1M
+./client.sh start 9 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+trace1M
+./client.sh start 10 cnodes trace1M
+trace1M
+./client.sh start 11 cnodes trace1M
+trace1M
+./client.sh start 12 cnodes trace1M
+trace1M
+./client.sh start 13 cnodes trace1M
+~/sosp19/txTraces/trace1M_4.bin
+trace1M
+./client.sh start 14 cnodes trace1M
+trace1M
+./client.sh start 15 cnodes trace1M
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_9.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_8.bin
+~/sosp19/txTraces/trace1M_11.bin
+~/sosp19/txTraces/trace1M_10.bin
+~/sosp19/txTraces/trace1M_13.bin
+~/sosp19/txTraces/trace1M_15.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_14.bin
+~/sosp19/txTraces/trace1M_12.bin
+~/sosp19/txTraces/trace1M_2.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_2.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_2.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_2.bin
+./client.sh start 8 cnodes trace1M
+trace1M
+./client.sh start 9 cnodes trace1M
+trace1M
+./client.sh start 10 cnodes trace1M
+~/sosp19/txTraces/trace1M_5.bin
+trace1M
+./client.sh start 11 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_0.bin
+./client.sh start 12 cnodes trace1M
+trace1M
+./client.sh start 13 cnodes trace1M
+trace1M
+./client.sh start 14 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_4.bin
+./client.sh start 15 cnodes trace1M
+~/sosp19/txTraces/trace1M_9.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_8.bin
+~/sosp19/txTraces/trace1M_11.bin
+~/sosp19/txTraces/trace1M_10.bin
+~/sosp19/txTraces/trace1M_14.bin
+~/sosp19/txTraces/trace1M_15.bin
+~/sosp19/txTraces/trace1M_13.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_12.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_3.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+~/sosp19/txTraces/trace1M_0.bin
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+~/sosp19/txTraces/trace1M_1.bin
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_2.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_4.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+--- Starting storage nodes
+Verifer: 129.114.108.51
+Verifer: 129.114.108.63
+Verifer: 129.114.108.66
+trace1M
+./client.sh start 0 cnodes trace1M
+trace1M
+./client.sh start 1 cnodes trace1M
+trace1M
+./client.sh start 2 cnodes trace1M
+trace1M
+./client.sh start 3 cnodes trace1M
+trace1M
+./client.sh start 4 cnodes trace1M
+trace1M
+./client.sh start 5 cnodes trace1M
+trace1M
+./client.sh start 6 cnodes trace1M
+trace1M
+./client.sh start 7 cnodes trace1M
+trace1M
+./client.sh start 8 cnodes trace1M
+trace1M
+./client.sh start 9 cnodes trace1M
+trace1M
+./client.sh start 10 cnodes trace1M
+~/sosp19/txTraces/trace1M_2.bin
+trace1M
+./client.sh start 11 cnodes trace1M
+trace1M
+./client.sh start 12 cnodes trace1M
+trace1M
+./client.sh start 13 cnodes trace1M
+trace1M
+~/sosp19/txTraces/trace1M_0.bin
+./client.sh start 14 cnodes trace1M
+trace1M
+./client.sh start 15 cnodes trace1M
+~/sosp19/txTraces/trace1M_5.bin
+~/sosp19/txTraces/trace1M_6.bin
+~/sosp19/txTraces/trace1M_4.bin
+~/sosp19/txTraces/trace1M_10.bin
+~/sosp19/txTraces/trace1M_9.bin
+~/sosp19/txTraces/trace1M_12.bin
+~/sosp19/txTraces/trace1M_15.bin
+~/sosp19/txTraces/trace1M_14.bin
+~/sosp19/txTraces/trace1M_3.bin
+~/sosp19/txTraces/trace1M_13.bin
+~/sosp19/txTraces/trace1M_11.bin
+~/sosp19/txTraces/trace1M_8.bin
+~/sosp19/txTraces/trace1M_7.bin
+~/sosp19/txTraces/trace1M_1.bin
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE
+DONE CLIENT INSTANCE

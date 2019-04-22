@@ -1,0 +1,10 @@
+Serving on port 9000 as beneficiary 2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Waiting to connect to 2 verifiers, connected to 0
+Connected to 2 verifiers
+Parent block set to ab6e11d94914ffc052c08f63403a3b04f6426e54d2d4b23d663f0d615a7b4e27, block number 0
+Initialized state to stateRoot 69e5eb48ee256da03db5d894a4309a7d367c8a31d773a9c217c97d5bf021e702
+Shard 0 connection failed: storage node at 129.114.108.100:9100: Error: Failed to connect before the deadline
+Terminating due to error
+Error: Failed to connect to shard 0 at 129.114.108.100:9100
+    at verifiers.(anonymous function).waitForReady.error (/home/cc/sosp19/verifier/src/blockGenerator.ts:401:28)
+    at checkState (/home/cc/sosp19/verifier/node_modules/grpc/src/client.js:835:7)

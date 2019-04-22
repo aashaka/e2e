@@ -1,0 +1,624 @@
+Storage shard 7 initialized to 69e5eb48ee256da03db5d894a4309a7d367c8a31d773a9c217c97d5bf021e702
+Storage shard 7 running on 0.0.0.0:9107
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 5237540 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 421820 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 687137 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 226189 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 169353 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 175480 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 229442 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 182952 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 205741 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 181563 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 164382 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 282405 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 192809 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 178436 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 257612 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 182272 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 248665 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 259252 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 248008 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 180846 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 177018 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 237036 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 196182 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 286442 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 262769 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 188326 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 195879 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 252413 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 242016 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 265859 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 264152 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 207369 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getAccount: 207603 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getAccount: 211829 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 293099 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 181695 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 231608 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 259093 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 251372 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 255246 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 192946 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 224226 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 262779 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 259722 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 253812 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 261933 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 264236 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 255175 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 254303 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 264409 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 234510 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 216556 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 191549 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 180436 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 267939 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 284433 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 289346 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 191333 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 249733 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 263833 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 244485 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 253461 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 227975 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 246962 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 237747 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 293071 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 250782 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 265505 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 245939 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 189156 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 184832 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 11877036 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 259369 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 263136 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 288866 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 258556 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 198526 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 242556 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 258539 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 212030 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 248079 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 243459 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 248272 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 176504 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 240199 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 216107 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 247462 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 243759 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 240882 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 194045 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 247289 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getAccount: 162981 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 261402 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 236199 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 196747 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 735467 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 264009 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 256063 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 265656 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 225187 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 260892 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 190732 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 239042 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 271512 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 236623 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 155879 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 237005 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 177656 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 262356 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 241815 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 2526123 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 260098 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 226799 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 170797 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 227110 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 256065 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 263632 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 269222 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 173770 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 265614 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 233421 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 164335 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 238565 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 258359 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 255030 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 260149 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 258149 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 4974634 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 166786 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 251986 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 238403 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 230702 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 266656 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 245629 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 199289 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 245263 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 251579 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 238683 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 253683 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 251253 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 271636 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 253285 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 257286 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 193452 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 259926 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 243796 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 257075 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 171529 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 253629 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 248082 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 246392 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 240716 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 170946 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 267279 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 254843 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 259352 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 248242 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 229547 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 251679 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 240891 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 237012 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 172230 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 263259 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 242220 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 241809 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 270972 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 247349 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 261716 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 247563 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 260369 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 240809 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 285277 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 256786 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 230005 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 237779 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 249226 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 262743 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 235916 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 244719 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 243406 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 264899 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 241035 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 251586 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 242429 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 254489 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 254966 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 263546 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 259822 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 238286 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 249362 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 176863 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 233279 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 243445 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 239196 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 226359 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 219553 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getAccount: 193608 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 240423 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 255165 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 252720 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 237552 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 241670 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 250425 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 252478 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 238315 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 257866 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 262512 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 240489 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 241816 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 258572 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 259432 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 242832 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 246489 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 244113 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getAccount: 180823 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 237469 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 241306 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 274536 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 240099 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 255452 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 244306 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 10719322 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 266336 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 265289 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 246353 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 286239 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 982929 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 236449 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 257563 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 256565 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 226389 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 240482 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 250513 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 229016 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 240829 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 239519 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 236029 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 238296 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 234729 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 226725 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 270348 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 247806 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 261686 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 252979 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 273879 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 241373 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 254562 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 254982 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 236076 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 237772 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 246495 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 241932 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 235319 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 230663 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 236629 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 247579 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 244832 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 215858 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 214772 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 218996 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 490340 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 225615 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 210744 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 223039 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 241532 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 229330 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 226850 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 226216 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 273675 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 253529 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 213086 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 229466 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 248978 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 217233 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 228295 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 238669 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 239839 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 222576 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 224363 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 232295 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 232699 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 248047 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 250462 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 235509 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 247163 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 229578 ns
+witPercentage: 87.5, original: 8, reduced: 1
+getCode: 237604 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 261606 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 224306 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 230349 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 226655 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 207396 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 234739 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 228075 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 226249 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 234196 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 236599 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 222873 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 228709 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 231636 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 241882 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 235595 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 226296 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 239086 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 224642 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 229912 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 240425 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 250289 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 227533 ns
+witPercentage: 85.71428571428571, original: 7, reduced: 1
+getCode: 240575 ns
+witPercentage: 83.33333333333333, original: 6, reduced: 1
+getCode: 242256 ns

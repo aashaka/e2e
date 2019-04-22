@@ -1,0 +1,4 @@
+
+can not read a block mapping entry; a multiline key may not be an implicit key at line 53, column 10:
+    verifiers:
+             ^
