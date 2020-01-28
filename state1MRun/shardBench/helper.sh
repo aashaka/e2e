@@ -35,6 +35,12 @@ send_state(){
 	for HOSTNAME in ${HOSTS} ; do scp -i  ~/disaggregatedblockchain.pem ./state10M* ${USERNAME}@${HOSTNAME}:~/sosp19/storage/src/test_data/ & done
 }
 
+init_ssh(){
+	for HOSTNAME in ${HOSTS} ; do 
+		ssh-keygen -R ${HOSTNAME}
+		ssh-keyscan -H ${HOSTNAME} >> ~/.ssh/known_hosts
+	done
+}
 if [ $1 = "logs" ]; then
 	get_logs
 fi
@@ -46,4 +52,7 @@ if [ $1 = "sendstate" ]; then
 fi
 if [ $1 = "removeLogs" ]; then
 	rm_logs
+fi
+if [ $1 = "init" ]; then
+	init_ssh
 fi

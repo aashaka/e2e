@@ -5,6 +5,7 @@
 USERNAME="cc"
 CLIENTS=($(<./$3))
 clientToSpawn=$2
+numOps=$4
 
 stop() {
   for ((i = 0; i < ${#CLIENTS[@]}; i++)); do
@@ -16,13 +17,14 @@ stop() {
 
 start(){
   num=$(( ${clientToSpawn} % ${#CLIENTS[@]} ))
+echo "DOing node --max-old-space-size=122880 -r ts-node/register src/shardBench.ts ${numOps}"
   ssh -i ~/disaggregatedblockchain.pem ${USERNAME}@${CLIENTS[num]} "cd ~/sosp19/storage; 
-   node --max-old-space-size=122880 -r ts-node/register src/shardBench.ts 1000000"
+   node --max-old-space-size=122880 -r ts-node/register src/shardBench.ts ${numOps}"
   echo "DONE CLIENT INSTANCE"
 }
 
-if (($# != 3)); then
-  echo "./client.sh start/stop clientToSpawn clientIps"
+if (($# != 4)); then
+  echo "./client.sh start/stop clientToSpawn clientIps numOps"
 fi
 
 # setup_docker_deps $1

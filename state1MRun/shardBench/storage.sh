@@ -41,6 +41,14 @@ stop() {
   done
 }
 
+stopBench() {
+  for ((k = 0; k < 16; k++)); do
+    ssh  -i ~/disaggregatedblockchain.pem ${USERNAME}@${SSERVERS[k]} '
+        kill -9 $(pgrep -f shardClient)
+    ' 
+  done
+}
+
 if (($# != 3)); then
   echo "./storage.sh start/stop storageIPs pruneDepth"
 fi
@@ -59,4 +67,7 @@ if [ $1 = "start" ]; then
 fi
 if [ $1 = "stop" ]; then
   stop
+fi
+if [ $1 = "stopBench" ]; then
+  stopBench
 fi

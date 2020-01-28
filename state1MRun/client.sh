@@ -26,7 +26,7 @@ start(){
   echo "DONE CLIENT INSTANCE"
 }
 
-if (($# != 4)); then
+if (($# != 5)); then
   echo "./client.sh start/stop clientToSpawn clientIps traceToExecute"
 fi
 
